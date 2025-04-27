@@ -71,7 +71,7 @@ def go(config: DictConfig):
         if "data_check" in active_steps:
             # Data Validation Testing
             _ = mlflow.run(
-                os.path.join(root_path, "src/basic_cleaning"),
+                os.path.join(root_path, "src/data_check"),
                 "main",
                 parameters={
                     "csv": "clean_sample.csv:latest",
