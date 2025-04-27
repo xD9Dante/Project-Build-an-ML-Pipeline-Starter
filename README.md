@@ -1,5 +1,6 @@
-# Weights and Biases Public Project
-https://wandb.ai/sbaole93-western-governors-university/nyc_airbnb?nw=nwusersbaole93
+# Submission Links
+W&B Public Link: https://wandb.ai/sbaole93-western-governors-university/nyc_airbnb?nw=nwusersbaole93
+Github Link: https://github.com/xD9Dante/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
